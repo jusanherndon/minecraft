@@ -1,203 +1,95 @@
-[11:34:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:34:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:34:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:34:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:34:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:34:15] [Server thread/INFO]: Loading properties
-[11:34:15] [Server thread/INFO]: Default game type: SURVIVAL
-[11:34:15] [Server thread/INFO]: Generating keypair
-[11:34:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:34:16] [Server thread/INFO]: Using default channel type
-[11:34:17] [Server thread/INFO]: Preparing level "world"
-[11:34:17] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:35:08] [Server thread/INFO]: Loaded 6 recipes
-[11:35:09] [Server thread/INFO]: Loaded 825 advancements
-[11:35:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:16] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[11:35:17] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:17] [Server thread/INFO]: Preparing spawn area: 0%
-[11:35:17] [Server thread/INFO]: Preparing spawn area: 8%
-[11:35:18] [Server thread/INFO]: Preparing spawn area: 15%
-[11:35:18] [Server thread/INFO]: Preparing spawn area: 22%
-[11:35:19] [Server thread/INFO]: Preparing spawn area: 41%
-[11:35:19] [Server thread/INFO]: Time elapsed: 8623 ms
-[11:35:19] [Server thread/INFO]: Done (62.537s)! For help, type "help"
-[11:36:11] [Server thread/INFO]: /advancement (grant|revoke)
-[11:36:11] [Server thread/INFO]: /ban <targets> [<reason>]
-[11:36:11] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[11:36:11] [Server thread/INFO]: /banlist [ips|players]
-[11:36:11] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[11:36:11] [Server thread/INFO]: /clear [<targets>]
-[11:36:11] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[11:36:11] [Server thread/INFO]: /data (get|merge|modify|remove)
-[11:36:11] [Server thread/INFO]: /datapack (disable|enable|list)
-[11:36:11] [Server thread/INFO]: /debug (report|start|stop)
-[11:36:11] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[11:36:11] [Server thread/INFO]: /deop <targets>
-[11:36:11] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[11:36:11] [Server thread/INFO]: /effect (clear|give)
-[11:36:11] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[11:36:11] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[11:36:11] [Server thread/INFO]: /experience (add|query|set)
-[11:36:11] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[11:36:11] [Server thread/INFO]: /forceload (add|query|remove)
-[11:36:11] [Server thread/INFO]: /function <name>
-[11:36:11] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[11:36:11] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[11:36:11] [Server thread/INFO]: /give <targets> <item> [<count>]
-[11:36:11] [Server thread/INFO]: /help [<command>]
-[11:36:11] [Server thread/INFO]: /kick <targets> [<reason>]
-[11:36:11] [Server thread/INFO]: /kill [<targets>]
-[11:36:11] [Server thread/INFO]: /list [uuids]
-[11:36:11] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[11:36:11] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[11:36:11] [Server thread/INFO]: /me <action>
-[11:36:11] [Server thread/INFO]: /msg <targets> <message>
-[11:36:11] [Server thread/INFO]: /op <targets>
-[11:36:11] [Server thread/INFO]: /pardon <targets>
-[11:36:11] [Server thread/INFO]: /pardon-ip <target>
-[11:36:11] [Server thread/INFO]: /particle <name> [<pos>]
-[11:36:11] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[11:36:11] [Server thread/INFO]: /recipe (give|take)
-[11:36:11] [Server thread/INFO]: /reload
-[11:36:11] [Server thread/INFO]: /replaceitem (block|entity)
-[11:36:11] [Server thread/INFO]: /save-all [flush]
-[11:36:11] [Server thread/INFO]: /save-off
-[11:36:11] [Server thread/INFO]: /save-on
-[11:36:11] [Server thread/INFO]: /say <message>
-[11:36:11] [Server thread/INFO]: /schedule (clear|function)
-[11:36:11] [Server thread/INFO]: /scoreboard (objectives|players)
-[11:36:11] [Server thread/INFO]: /seed
-[11:36:11] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[11:36:11] [Server thread/INFO]: /setidletimeout <minutes>
-[11:36:11] [Server thread/INFO]: /setworldspawn [<pos>]
-[11:36:11] [Server thread/INFO]: /spawnpoint [<targets>]
-[11:36:11] [Server thread/INFO]: /spectate [<target>]
-[11:36:11] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[11:36:11] [Server thread/INFO]: /stop
-[11:36:11] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[11:36:11] [Server thread/INFO]: /summon <entity> [<pos>]
-[11:36:11] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[11:36:11] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[11:36:11] [Server thread/INFO]: /teammsg <message>
-[11:36:11] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[11:36:11] [Server thread/INFO]: /tell -> msg
-[11:36:11] [Server thread/INFO]: /tellraw <targets> <message>
-[11:36:11] [Server thread/INFO]: /time (add|query|set)
-[11:36:11] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[11:36:11] [Server thread/INFO]: /tm -> teammsg
-[11:36:11] [Server thread/INFO]: /tp -> teleport
-[11:36:11] [Server thread/INFO]: /trigger <objective> [add|set]
-[11:36:11] [Server thread/INFO]: /w -> msg
-[11:36:11] [Server thread/INFO]: /weather (clear|rain|thunder)
-[11:36:11] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[11:36:11] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[11:36:11] [Server thread/INFO]: /xp -> experience
-[11:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[11:40:52] [User Authenticator #1/INFO]: UUID of player Cosmic_Ronin is 0b015558-39b9-43e0-a3c1-4fc7d515c21e
-[11:40:53] [Server thread/INFO]: Cosmic_Ronin[/207.68.224.25:64233] logged in with entity id 35 at (549.167303701926, 66.0, -389.8225605462904)
-[11:40:53] [Server thread/INFO]: Cosmic_Ronin joined the game
-[11:40:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[11:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8308ms or 166 ticks behind
-[11:44:38] [Server thread/INFO]: [Server] Btw I think the problem might be the upload speed with my current wifi, becuase I have a download speed of a mbs but an upload speed in kbs
-[11:45:06] [Server thread/INFO]: <Cosmic_Ronin> okay is there a way to make that better or are we sol
-[11:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3401ms or 68 ticks behind
-[11:45:39] [Server thread/INFO]: Unknown command
-[11:45:39] [Server thread/INFO]: s<--[HERE]
-[11:46:27] [Server thread/INFO]: [Server] I'll look into it, but if we want to run this server and their isn't a solution we'll just have to limit how many people can log into the server at one time
-[11:47:31] [Server thread/INFO]: [Server] which isn't a big deal and it's just a quick modification to the proerties file, this is also assuming we get other people to join the server. I'm fine with it just being us
-[11:47:53] [Server thread/INFO]: <Cosmic_Ronin> i wouldint mind inviting tom
-[11:48:48] [Server thread/INFO]: [Server] Well I gave him a invite but he's currently busy with work rn
-[11:48:56] [Server thread/INFO]: <Cosmic_Ronin> yeah
-[11:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
-[11:50:58] [Server thread/INFO]: [Server] I also finished season two of Korra. The giant blue spirit
-[11:55:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
-[11:58:12] [Server thread/INFO]: Cosmic_Ronin has made the advancement [The Parrots and the Bats]
-[12:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
-[12:03:46] [Server thread/INFO]: Cosmic_Ronin has made the advancement [Take Aim]
-[12:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
-[12:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
-[12:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
-[12:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4243ms or 84 ticks behind
-[12:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
-[12:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
-[12:36:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
-[12:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
-[12:46:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[12:51:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
-[12:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[13:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
-[13:06:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
-[13:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[13:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2692ms or 53 ticks behind
-[13:21:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
-[13:22:43] [Server thread/INFO]: Cosmic_Ronin lost connection: Disconnected
-[13:22:43] [Server thread/INFO]: Cosmic_Ronin left the game
-[16:01:35] [User Authenticator #2/INFO]: UUID of player Cosmic_Ronin is 0b015558-39b9-43e0-a3c1-4fc7d515c21e
-[16:01:36] [Server thread/INFO]: Cosmic_Ronin[/207.68.224.25:49245] logged in with entity id 19017 at (536.23173422392, 60.0, -385.36837056874504)
-[16:01:36] [Server thread/INFO]: Cosmic_Ronin joined the game
-[16:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
-[16:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
-[16:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
-[16:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
-[16:16:26] [Server thread/INFO]: Cosmic_Ronin was shot by Skeleton
-[16:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
-[16:16:43] [Server thread/INFO]: Cosmic_Ronin was shot by Skeleton
-[16:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
-[16:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[16:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
-[16:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2874ms or 57 ticks behind
-[16:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[16:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
-[16:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
-[17:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
-[17:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
-[17:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
-[17:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[17:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[17:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
-[17:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4771ms or 95 ticks behind
-[17:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
-[17:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[17:42:09] [Server thread/INFO]: Cosmic_Ronin was slain by Zombie
-[17:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
-[17:42:29] [Server thread/WARN]: Cosmic_Ronin moved too quickly! -6.597892805272636,-4.354928846581679,6.341817178102929
-[17:46:29] [Server thread/INFO]: Cosmic_Ronin was shot by Skeleton
-[17:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
-[17:47:38] [Server thread/INFO]: Cosmic_Ronin was slain by Zombie
-[17:48:18] [Server thread/INFO]: Cosmic_Ronin was slain by Zombie
-[17:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
-[17:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
-[18:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
-[18:03:25] [Server thread/INFO]: Cosmic_Ronin has made the advancement [Ice Bucket Challenge]
-[18:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
-[18:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
-[18:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
-[18:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[18:37:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[18:47:16] [Server thread/INFO]: Cosmic_Ronin lost connection: Disconnected
-[18:47:16] [Server thread/INFO]: Cosmic_Ronin left the game
-[21:54:08] [Server thread/INFO]: Stopping server
-[21:54:08] [Server thread/INFO]: Saving players
-[21:54:08] [Server thread/INFO]: Saving worlds
-[21:54:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:54:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:54:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:54:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:54:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:54:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:54:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:54:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:54:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:58:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:58:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:58:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:58:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:58:25] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[09:58:25] [Server thread/INFO]: Loading properties
+[09:58:25] [Server thread/INFO]: Default game type: SURVIVAL
+[09:58:25] [Server thread/INFO]: Generating keypair
+[09:58:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:58:27] [Server thread/INFO]: Using default channel type
+[09:58:27] [Server thread/INFO]: Preparing level "world"
+[09:58:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:59:20] [Server thread/INFO]: Loaded 6 recipes
+[09:59:21] [Server thread/INFO]: Loaded 825 advancements
+[09:59:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:27] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[09:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[09:59:30] [Server thread/INFO]: Preparing spawn area: 19%
+[09:59:30] [Server thread/INFO]: Preparing spawn area: 19%
+[09:59:30] [Server thread/INFO]: Preparing spawn area: 19%
+[09:59:30] [Server thread/INFO]: Preparing spawn area: 74%
+[09:59:31] [Server thread/INFO]: Preparing spawn area: 87%
+[09:59:31] [Server thread/INFO]: Time elapsed: 8627 ms
+[09:59:31] [Server thread/INFO]: Done (63.271s)! For help, type "help"
+[09:59:50] [User Authenticator #1/INFO]: UUID of player Jusan0 is 4b995f04-9f2d-4a89-a8a4-1142c16aeac6
+[09:59:51] [Server thread/INFO]: Jusan0[/192.168.1.254:61408] logged in with entity id 35 at (178.5, 65.0, -10.5)
+[09:59:51] [Server thread/INFO]: Jusan0 joined the game
+[09:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[10:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3531ms or 70 ticks behind
+[10:00:26] [Server thread/INFO]: [Jusan0: Set the time to 1000]
+[10:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[10:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
+[10:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[10:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[10:10:48] [Server thread/INFO]: [Jusan0: Set the time to 1000]
+[10:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4098ms or 81 ticks behind
+[10:15:32] [Server thread/INFO]: Jusan0 has made the advancement [Stone Age]
+[10:19:07] [Server thread/INFO]: Jusan0 has made the advancement [Getting an Upgrade]
+[10:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4017ms or 80 ticks behind
+[10:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[10:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[10:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
+[10:33:30] [Server thread/INFO]: Jusan0 was slain by Silverfish
+[10:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[10:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
+[10:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[10:37:38] [Server thread/INFO]: Jusan0 fell from a high place
+[10:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[10:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[10:43:03] [Server thread/INFO]: Jusan0 has made the advancement [Sweet Dreams]
+[10:45:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
+[10:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[10:54:03] [Server thread/INFO]: Jusan0 has made the advancement [Acquire Hardware]
+[10:54:27] [Server thread/INFO]: Jusan0 has made the advancement [Isn't It Iron Pick]
+[10:55:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[10:59:41] [Server thread/INFO]: Jusan0 hit the ground too hard
+[11:00:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[11:03:17] [Server thread/INFO]: <Jusan0> home coords: 192, 74, 204
+[11:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
+[11:09:32] [Server thread/INFO]: Jusan0 has made the advancement [Monster Hunter]
+[11:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4240ms or 84 ticks behind
+[11:15:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[11:18:36] [Server thread/INFO]: Jusan0 tried to swim in lava
+[11:19:14] [Server thread/INFO]: Jusan0 lost connection: Disconnected
+[11:19:14] [Server thread/INFO]: Jusan0 left the game
+[11:20:25] [User Authenticator #2/INFO]: UUID of player Jusan0 is 4b995f04-9f2d-4a89-a8a4-1142c16aeac6
+[11:20:26] [Server thread/INFO]: Jusan0[/192.168.1.254:61705] logged in with entity id 12067 at (192.64911102747905, 79.0, 193.34362037295392)
+[11:20:26] [Server thread/INFO]: Jusan0 joined the game
+[11:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[11:20:38] [Server thread/INFO]: [Jusan0: Stopping the server]
+[11:20:38] [Server thread/INFO]: Stopping server
+[11:20:38] [Server thread/INFO]: Saving players
+[11:20:38] [Server thread/INFO]: Jusan0 lost connection: Server closed
+[11:20:38] [Server thread/INFO]: Jusan0 left the game
+[11:20:38] [Server thread/INFO]: Saving worlds
+[11:20:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:20:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:20:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:20:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:20:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
