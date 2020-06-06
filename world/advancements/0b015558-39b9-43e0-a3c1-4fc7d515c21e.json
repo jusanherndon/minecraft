@@ -595,6 +595,7 @@
       "minecraft:spider": "2020-05-27 17:56:54 -0500",
       "minecraft:creeper": "2020-05-27 21:17:33 -0500",
       "minecraft:slime": "2020-06-02 12:14:03 -0500",
+      "minecraft:phantom": "2020-06-05 14:19:19 -0500",
       "minecraft:witch": "2020-06-01 15:55:57 -0500",
       "minecraft:wither_skeleton": "2020-05-29 20:21:41 -0500",
       "minecraft:cave_spider": "2020-06-01 01:28:21 -0500",
@@ -873,6 +874,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-06-01 00:41:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-06-05 15:04:19 -0500"
     },
     "done": true
   },
