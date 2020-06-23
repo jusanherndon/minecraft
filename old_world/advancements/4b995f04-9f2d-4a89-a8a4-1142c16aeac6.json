@@ -525,13 +525,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-29 10:26:12 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-29 10:26:12 -0500"
     },
@@ -630,12 +630,6 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-06-01 16:04:42 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_the_recipe": "2020-06-02 10:20:50 -0500"
     },
     "done": true
   },
@@ -774,12 +768,6 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-06-03 16:36:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2020-05-29 10:08:08 -0500"
     },
     "done": true
   },
@@ -975,13 +963,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-06-01 16:53:55 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-06-01 16:53:55 -0500"
     },
@@ -1002,9 +990,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-06-02 12:19:01 -0500",
-      "minecraft:zombie_pigman": "2020-06-02 09:58:03 -0500",
       "minecraft:spider": "2020-06-03 11:16:37 -0500",
       "minecraft:creeper": "2020-06-03 11:59:18 -0500",
+      "minecraft:zombified_piglin": "2020-06-02 09:58:03 -0500",
       "minecraft:husk": "2020-06-03 16:44:50 -0500",
       "minecraft:zombie": "2020-05-29 11:09:32 -0500",
       "minecraft:drowned": "2020-06-03 17:31:56 -0500"
@@ -1122,6 +1110,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-06-02 10:06:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-06-23 18:49:26 -0500"
     },
     "done": true
   },
@@ -1425,12 +1419,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2020-05-29 10:00:58 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-29 10:26:12 -0500"
@@ -1539,12 +1527,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2020-05-29 10:01:48 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-29 10:26:12 -0500"
@@ -1560,12 +1542,6 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-05-29 10:54:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2020-06-01 16:05:05 -0500"
     },
     "done": true
   },
@@ -1798,6 +1774,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-06-02 09:59:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2020-06-02 10:20:50 -0500"
     },
     "done": true
   },
@@ -2155,5 +2137,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2566
 }
