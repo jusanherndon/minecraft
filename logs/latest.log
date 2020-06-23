@@ -1,183 +1,136 @@
-[17:18:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:18:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:18:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:18:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:18:47] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:18:47] [Server thread/INFO]: Loading properties
-[17:18:47] [Server thread/INFO]: Default game type: SURVIVAL
-[17:18:47] [Server thread/INFO]: Generating keypair
-[17:18:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:18:49] [Server thread/INFO]: Using default channel type
-[17:18:50] [Server thread/INFO]: Preparing level "world"
-[17:18:50] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:19:39] [Server thread/INFO]: Loaded 6 recipes
-[17:19:40] [Server thread/INFO]: Loaded 825 advancements
-[17:19:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:19:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:47] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:47] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:47] [Server thread/INFO]: Preparing spawn area: 6%
-[17:19:48] [Server thread/INFO]: Preparing spawn area: 18%
-[17:19:48] [Server thread/INFO]: Preparing spawn area: 26%
-[17:19:49] [Server thread/INFO]: Preparing spawn area: 36%
-[17:19:49] [Server thread/INFO]: Time elapsed: 8643 ms
-[17:19:49] [Server thread/INFO]: Done (59.867s)! For help, type "help"
-[17:27:13] [User Authenticator #1/INFO]: UUID of player Jusan0 is 4b995f04-9f2d-4a89-a8a4-1142c16aeac6
-[17:27:14] [Server thread/INFO]: Jusan0[/207.68.224.25:50137] logged in with entity id 184 at (192.72589872207405, 79.0, 194.80579498944925)
-[17:27:14] [Server thread/INFO]: Jusan0 joined the game
-[17:27:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
-[17:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6256ms or 125 ticks behind
-[17:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
-[17:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
-[17:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
-[17:55:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[17:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[18:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[18:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[18:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:15:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
-[18:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
-[18:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
-[18:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
-[18:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
-[18:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
-[18:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6975ms or 139 ticks behind
-[18:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6699ms or 133 ticks behind
-[18:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5540ms or 110 ticks behind
-[18:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4826ms or 96 ticks behind
-[18:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
-[18:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
-[18:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
-[18:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4470ms or 89 ticks behind
-[18:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6661ms or 133 ticks behind
-[18:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4443ms or 88 ticks behind
-[18:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7649ms or 152 ticks behind
-[18:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6466ms or 129 ticks behind
-[18:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6013ms or 120 ticks behind
-[18:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6344ms or 126 ticks behind
-[18:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
-[18:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
-[18:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[18:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[18:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[18:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2769ms or 55 ticks behind
-[18:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
-[18:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3657ms or 73 ticks behind
-[18:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5342ms or 106 ticks behind
-[18:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5541ms or 110 ticks behind
-[18:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5681ms or 113 ticks behind
-[18:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
-[18:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5167ms or 103 ticks behind
-[18:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4773ms or 95 ticks behind
-[18:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8522ms or 170 ticks behind
-[18:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7756ms or 155 ticks behind
-[18:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7142ms or 142 ticks behind
-[18:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6022ms or 120 ticks behind
-[18:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
-[18:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4708ms or 94 ticks behind
-[18:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
-[18:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
-[18:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9543ms or 190 ticks behind
-[18:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8855ms or 177 ticks behind
-[18:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8241ms or 164 ticks behind
-[18:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
-[18:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6005ms or 120 ticks behind
-[18:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
-[18:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
-[18:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8623ms or 172 ticks behind
-[18:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8235ms or 164 ticks behind
-[18:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7070ms or 141 ticks behind
-[18:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8812ms or 176 ticks behind
-[18:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2914ms or 58 ticks behind
-[19:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
-[19:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
-[19:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
-[19:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
-[19:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
-[19:09:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6668ms or 133 ticks behind
-[19:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5884ms or 117 ticks behind
-[19:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5537ms or 110 ticks behind
-[19:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
-[19:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5842ms or 116 ticks behind
-[19:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4735ms or 94 ticks behind
-[19:11:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4905ms or 98 ticks behind
-[19:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9071ms or 181 ticks behind
-[19:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9696ms or 193 ticks behind
-[19:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8891ms or 177 ticks behind
-[19:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8352ms or 167 ticks behind
-[19:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7761ms or 155 ticks behind
-[19:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6694ms or 133 ticks behind
-[19:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5675ms or 113 ticks behind
-[19:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
-[19:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
-[19:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
-[19:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7389ms or 147 ticks behind
-[19:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8296ms or 165 ticks behind
-[19:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7736ms or 154 ticks behind
-[19:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7170ms or 143 ticks behind
-[19:16:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6463ms or 129 ticks behind
-[19:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5675ms or 113 ticks behind
-[19:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5730ms or 114 ticks behind
-[19:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
-[19:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8511ms or 170 ticks behind
-[19:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7670ms or 153 ticks behind
-[19:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9923ms or 198 ticks behind
-[19:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6885ms or 137 ticks behind
-[19:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6538ms or 130 ticks behind
-[19:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6443ms or 128 ticks behind
-[19:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8608ms or 172 ticks behind
-[19:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11493ms or 229 ticks behind
-[19:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10664ms or 213 ticks behind
-[19:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8982ms or 179 ticks behind
-[19:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8186ms or 163 ticks behind
-[19:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8111ms or 162 ticks behind
-[19:23:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7415ms or 148 ticks behind
-[19:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
-[19:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7472ms or 149 ticks behind
-[19:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11817ms or 236 ticks behind
-[19:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10163ms or 203 ticks behind
-[19:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
-[19:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
-[19:26:51] [Server thread/INFO]: Jusan0 lost connection: Disconnected
-[19:26:51] [Server thread/INFO]: Jusan0 left the game
-[19:27:09] [Server thread/INFO]: Stopping the server
-[19:27:09] [Server thread/INFO]: Stopping server
-[19:27:09] [Server thread/INFO]: Saving players
-[19:27:09] [Server thread/INFO]: Saving worlds
-[19:27:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:27:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:27:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:27:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:27:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:59:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:59:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:59:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:59:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:59:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:59:13] [main/INFO]: Reloading ResourceManager: Default
+[11:59:19] [Worker-Main-6/INFO]: Loaded 7 recipes
+[11:59:21] [Worker-Main-6/INFO]: Loaded 927 advancements
+[11:59:26] [Server thread/INFO]: Starting minecraft server version 1.16
+[11:59:26] [Server thread/INFO]: Loading properties
+[11:59:26] [Server thread/INFO]: Default game type: SURVIVAL
+[11:59:26] [Server thread/INFO]: Generating keypair
+[11:59:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:59:27] [Server thread/INFO]: Using default channel type
+[11:59:28] [Server thread/INFO]: Preparing level "world"
+[12:00:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:00:13] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[12:00:13] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[12:00:13] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[12:00:13] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[12:00:14] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[12:00:14] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[12:00:15] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[12:00:15] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[12:00:16] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[12:00:16] [Worker-Main-5/INFO]: Preparing spawn area: 7%
+[12:00:17] [Worker-Main-6/INFO]: Preparing spawn area: 8%
+[12:00:17] [Worker-Main-5/INFO]: Preparing spawn area: 8%
+[12:00:18] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[12:00:18] [Worker-Main-5/INFO]: Preparing spawn area: 10%
+[12:00:19] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[12:00:19] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[12:00:20] [Worker-Main-5/INFO]: Preparing spawn area: 12%
+[12:00:20] [Worker-Main-4/INFO]: Preparing spawn area: 12%
+[12:00:21] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[12:00:21] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[12:00:22] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[12:00:22] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[12:00:23] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[12:00:23] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[12:00:24] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[12:00:24] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[12:00:25] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[12:00:25] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[12:00:26] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[12:00:26] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[12:00:27] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[12:00:27] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[12:00:28] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[12:00:28] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[12:00:29] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[12:00:29] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[12:00:30] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[12:00:30] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[12:00:31] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[12:00:31] [Worker-Main-6/INFO]: Preparing spawn area: 28%
+[12:00:32] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:32] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:33] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:33] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[12:00:34] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:34] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:35] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:35] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[12:00:36] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[12:00:36] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:37] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:00:38] [Worker-Main-4/INFO]: Preparing spawn area: 44%
+[12:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 44%
+[12:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 46%
+[12:00:39] [Worker-Main-4/INFO]: Preparing spawn area: 46%
+[12:00:39] [Worker-Main-4/INFO]: Preparing spawn area: 46%
+[12:00:40] [Worker-Main-5/INFO]: Preparing spawn area: 46%
+[12:00:40] [Worker-Main-5/INFO]: Preparing spawn area: 46%
+[12:00:41] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[12:00:41] [Worker-Main-5/INFO]: Preparing spawn area: 50%
+[12:00:42] [Worker-Main-4/INFO]: Preparing spawn area: 50%
+[12:00:42] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[12:00:43] [Worker-Main-4/INFO]: Preparing spawn area: 52%
+[12:00:44] [Worker-Main-6/INFO]: Preparing spawn area: 53%
+[12:00:44] [Worker-Main-5/INFO]: Preparing spawn area: 53%
+[12:00:44] [Worker-Main-4/INFO]: Preparing spawn area: 54%
+[12:00:45] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:45] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[12:00:46] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:46] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:47] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:47] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:48] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:48] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[12:00:49] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[12:00:49] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[12:00:50] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[12:00:50] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[12:00:51] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[12:00:51] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[12:00:52] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[12:00:52] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[12:00:53] [Worker-Main-5/INFO]: Preparing spawn area: 70%
+[12:00:53] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:00] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[12:01:04] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[12:01:04] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[12:01:04] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[12:01:04] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[12:01:04] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[12:01:04] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[12:01:04] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[12:01:04] [Server thread/INFO]: Time elapsed: 51813 ms
+[12:01:04] [Server thread/INFO]: Done (95.692s)! For help, type "help"
+[12:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4857ms or 97 ticks behind
+[12:01:14] [Server thread/INFO]: Stopping the server
+[12:01:14] [Server thread/INFO]: Stopping server
+[12:01:14] [Server thread/INFO]: Saving players
+[12:01:14] [Server thread/INFO]: Saving worlds
+[12:01:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
