@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-06-23 12:38:00 -0500"
@@ -71,15 +77,33 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-06-24 13:40:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-06-23 13:49:48 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-06-23 22:19:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-06-24 13:00:17 -0500"
     },
     "done": true
   },
@@ -155,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-06-23 12:45:40 -0500"
@@ -227,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-06-24 13:05:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-06-23 12:38:00 -0500"
@@ -265,6 +301,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2020-06-24 12:41:31 -0500",
       "cooked_cod": "2020-06-23 12:51:22 -0500",
       "cooked_salmon": "2020-06-23 12:50:39 -0500"
     },
@@ -273,6 +310,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-06-23 12:45:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-06-24 13:46:42 -0500"
     },
     "done": true
   },
@@ -462,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-06-24 12:23:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-06-23 16:52:27 -0500"
@@ -519,6 +568,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-06-23 13:12:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-06-24 13:00:32 -0500"
     },
     "done": true
   },
@@ -690,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-06-23 16:52:27 -0500"
@@ -699,6 +760,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-06-23 16:52:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-06-24 13:33:47 -0500"
     },
     "done": true
   },
@@ -715,9 +782,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-06-24 13:40:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-06-23 12:38:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-06-24 12:44:36 -0500"
     },
     "done": true
   },
@@ -730,6 +809,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-06-23 13:30:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-06-24 13:33:47 -0500"
     },
     "done": true
   },
@@ -751,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-06-23 13:59:54 -0500"
@@ -766,6 +857,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-06-23 12:40:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-06-24 13:46:42 -0500"
     },
     "done": true
   },
@@ -847,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-06-24 13:33:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-06-23 12:38:04 -0500"
@@ -874,6 +977,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-06-23 12:38:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-06-24 13:25:18 -0500"
     },
     "done": true
   },
@@ -967,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-06-24 13:00:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-06-23 14:07:05 -0500"
@@ -1033,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-06-23 13:30:52 -0500"
@@ -1093,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-06-24 12:44:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-06-23 13:49:48 -0500"
@@ -1150,6 +1277,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-06-23 12:38:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
     },
     "done": true
   },
@@ -1263,10 +1396,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-06-24 12:54:31 -0500",
       "minecraft:forest": "2020-06-23 12:34:29 -0500",
+      "minecraft:mountains": "2020-06-24 13:07:02 -0500",
+      "minecraft:taiga": "2020-06-24 12:59:50 -0500",
+      "minecraft:deep_cold_ocean": "2020-06-24 12:54:35 -0500",
+      "minecraft:birch_forest": "2020-06-24 13:19:46 -0500",
+      "minecraft:warm_ocean": "2020-06-24 12:33:42 -0500",
       "minecraft:deep_lukewarm_ocean": "2020-06-23 12:27:00 -0500",
       "minecraft:beach": "2020-06-23 12:26:25 -0500",
       "minecraft:lukewarm_ocean": "2020-06-23 13:58:34 -0500",
+      "minecraft:river": "2020-06-24 12:32:56 -0500",
+      "minecraft:birch_forest_hills": "2020-06-24 13:20:23 -0500",
+      "minecraft:wooded_hills": "2020-06-24 13:15:56 -0500",
+      "minecraft:stone_shore": "2020-06-24 13:06:52 -0500",
+      "minecraft:swamp": "2020-06-24 13:21:11 -0500",
       "minecraft:plains": "2020-06-23 12:26:38 -0500"
     },
     "done": false
@@ -1319,9 +1463,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-06-24 13:05:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-06-23 12:38:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2020-06-24 13:35:17 -0500"
     },
     "done": true
   },
@@ -1364,6 +1520,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-06-23 12:26:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-06-24 13:00:17 -0500"
     },
     "done": true
   },
@@ -1432,6 +1594,20 @@
       "has_iron_ingot": "2020-06-23 12:40:03 -0500"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-06-24 13:25:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-06-24 13:41:14 -0500",
+      "minecraft:warped_forest": "2020-06-24 13:40:34 -0500",
+      "minecraft:basalt_deltas": "2020-06-24 13:42:24 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1511,5 +1687,5 @@
     },
     "done": true
   },
-  "DataVersion": 2566
+  "DataVersion": 2567
 }
