@@ -1,104 +1,155 @@
-[18:48:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[18:48:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:48:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:48:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:48:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:48:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:48:16] [main/INFO]: Reloading ResourceManager: Default
-[18:48:22] [Worker-Main-4/INFO]: Loaded 7 recipes
-[18:48:24] [Worker-Main-4/INFO]: Loaded 927 advancements
-[18:48:30] [Server thread/INFO]: Starting minecraft server version 1.16
-[18:48:30] [Server thread/INFO]: Loading properties
-[18:48:30] [Server thread/INFO]: Default game type: SURVIVAL
-[18:48:30] [Server thread/INFO]: Generating keypair
-[18:48:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:48:32] [Server thread/INFO]: Using default channel type
-[18:48:33] [Server thread/INFO]: Preparing level "old_world"
-[18:48:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:00] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:06] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:08] [Server thread/INFO]: Time elapsed: 34437 ms
-[18:49:08] [Server thread/INFO]: Done (35.005s)! For help, type "help"
-[18:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
-[18:49:19] [User Authenticator #1/INFO]: UUID of player Jusan0 is 4b995f04-9f2d-4a89-a8a4-1142c16aeac6
-[18:49:24] [Server thread/INFO]: Jusan0[/207.68.224.25:57589] logged in with entity id 194 at (193.16477481967712, 79.0, 195.63878633769949)
-[18:49:24] [Server thread/INFO]: Jusan0 joined the game
-[18:49:40] [Server thread/INFO]: Jusan0 lost connection: Disconnected
-[18:49:40] [Server thread/INFO]: Jusan0 left the game
-[18:49:51] [Server thread/INFO]: Stopping the server
-[18:49:51] [Server thread/INFO]: Stopping server
-[18:49:51] [Server thread/INFO]: Saving players
-[18:49:51] [Server thread/INFO]: Saving worlds
-[18:49:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:49:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (old_world): All chunks are saved
-[18:49:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:49:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:49:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:49:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:49:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (old_world): All chunks are saved
-[18:49:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:49:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:33:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:33:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:33:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:33:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:33:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:33:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:33:53] [main/INFO]: Reloading ResourceManager: Default, Useful Flesh
+[20:33:59] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:34:01] [Worker-Main-4/ERROR]: Failed to load function flesh:scripts/uninstall
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 17: Invalid chat component: Expected ':' at line 1 column 10 path $[0].text at position 11: ...ellraw @a <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17: Invalid chat component: Expected ':' at line 1 column 10 path $[0].text at position 11: ...ellraw @a <--[HERE]
+	at cw.a(SourceFile:62) ~[server.jar:?]
+	at ut.a(SourceFile:84) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[20:34:01] [Worker-Main-4/ERROR]: Failed to load function flesh:scripts/install
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at cw.a(SourceFile:62) ~[server.jar:?]
+	at ut.a(SourceFile:84) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[20:34:01] [Worker-Main-4/ERROR]: Failed to load function flesh:scripts/init
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 18: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 36 path $[0].color at position 11: ...ellraw @a <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 18: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 36 path $[0].color at position 11: ...ellraw @a <--[HERE]
+	at cw.a(SourceFile:62) ~[server.jar:?]
+	at ut.a(SourceFile:84) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[20:34:01] [Worker-Main-4/INFO]: Loaded 927 advancements
+[20:34:06] [Server thread/INFO]: Starting minecraft server version 1.16
+[20:34:06] [Server thread/INFO]: Loading properties
+[20:34:06] [Server thread/INFO]: Default game type: SURVIVAL
+[20:34:06] [Server thread/INFO]: Generating keypair
+[20:34:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:34:08] [Server thread/INFO]: Using default channel type
+[20:34:08] [Server thread/INFO]: Preparing level "world"
+[20:34:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:34:19] [Server thread/INFO]: Preparing spawn area: 6%
+[20:34:19] [Server thread/INFO]: Preparing spawn area: 6%
+[20:34:19] [Server thread/INFO]: Preparing spawn area: 10%
+[20:34:20] [Server thread/INFO]: Preparing spawn area: 12%
+[20:34:21] [Server thread/INFO]: Preparing spawn area: 26%
+[20:34:21] [Server thread/INFO]: Preparing spawn area: 43%
+[20:34:22] [Server thread/INFO]: Preparing spawn area: 49%
+[20:34:22] [Server thread/INFO]: Preparing spawn area: 69%
+[20:34:22] [Server thread/INFO]: Time elapsed: 13743 ms
+[20:34:22] [Server thread/INFO]: Done (14.164s)! For help, type "help"
+[20:35:36] [User Authenticator #1/INFO]: UUID of player Jusan0 is 4b995f04-9f2d-4a89-a8a4-1142c16aeac6
+[20:35:38] [Server thread/INFO]: Jusan0[/207.68.224.25:58197] logged in with entity id 16 at (-431.53978920352773, 10.0, -81.66654951966837)
+[20:35:38] [Server thread/INFO]: Jusan0 joined the game
+[20:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
+[20:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27058ms or 541 ticks behind
+[20:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3464ms or 69 ticks behind
+[20:40:16] [Server thread/INFO]: <Jusan0> y
+[20:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20:46:16] [User Authenticator #2/INFO]: UUID of player Cosmic_Ronin is 0b015558-39b9-43e0-a3c1-4fc7d515c21e
+[20:46:18] [Server thread/INFO]: Cosmic_Ronin[/207.68.224.25:57996] logged in with entity id 1541 at (-395.1073292982865, 63.0, -103.39016059618089)
+[20:46:18] [Server thread/INFO]: Cosmic_Ronin joined the game
+[20:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[20:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:50:07] [Server thread/WARN]: Cosmic_Ronin moved too quickly! -8.271050522301493,0.0,-5.633872163892789
+[20:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[20:52:25] [Server thread/INFO]: Jusan0 was slain by Zombie
+[20:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[21:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[21:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[21:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[21:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[21:16:40] [Server thread/INFO]: Cosmic_Ronin has made the advancement [Ice Bucket Challenge]
+[21:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[21:23:25] [Server thread/INFO]: Cosmic_Ronin has made the advancement [We Need to Go Deeper]
+[21:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8271ms or 165 ticks behind
+[21:23:25] [Server thread/WARN]: Jusan0 moved wrongly!
+[21:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5831ms or 116 ticks behind
+[21:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8331ms or 166 ticks behind
+[21:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6914ms or 138 ticks behind
+[21:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5454ms or 109 ticks behind
+[21:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
+[21:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
+[21:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5153ms or 103 ticks behind
+[21:31:11] [Server thread/INFO]: Cosmic_Ronin has made the advancement [Fishy Business]
+[21:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
+[21:33:28] [Server thread/INFO]: Cosmic_Ronin lost connection: Disconnected
+[21:33:28] [Server thread/INFO]: Cosmic_Ronin left the game
+[21:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[21:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
+[21:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[22:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[22:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[22:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[22:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[22:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
+[22:35:41] [Server thread/INFO]: Jusan0 lost connection: Disconnected
+[22:35:41] [Server thread/INFO]: Jusan0 left the game
+[22:35:49] [Server thread/INFO]: Stopping the server
+[22:35:49] [Server thread/INFO]: Stopping server
+[22:35:49] [Server thread/INFO]: Saving players
+[22:35:49] [Server thread/INFO]: Saving worlds
+[22:35:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:35:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:35:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:35:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
